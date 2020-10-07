@@ -6,14 +6,6 @@ import random
 cluster = MongoClient("MONGODB LINK")
 db = cluster["DB NAME"]
 collection = db["COLLECTION NAME"]
-"""
-post = {"_id": 0, "name": "Ata", "password": "atasoyata", "money": 5}
-collection.insert_one(post)
-
-post = {"_id": 1, "name": "Hulusi", "password": "hulus", "money": 5}
-collection.insert_one(post)
-"""
-# collection.delete_many({})
 
 
 def register():
