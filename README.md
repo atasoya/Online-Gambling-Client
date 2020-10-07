@@ -1,10 +1,10 @@
 # Screenshots
 
-![](https://github.com/atasoya/Online-Gambling-Client/blob/master/photos/gam.PNG)
+![](https://github.com/atasoya/Online-Gambling-Client/blob/main/photos/gam.PNG)
 
-![](https://github.com/atasoya/Online-Gambling-Client/blob/master/photos/gam2.PNG)
+![](https://github.com/atasoya/Online-Gambling-Client/blob/main/photos/gam2.PNG)
 
-![](https://github.com/atasoya/Online-Gambling-Client/blob/master/photos/gam3.PNG)
+![](https://github.com/atasoya/Online-Gambling-Client/blob/main/photos/gam3.PNG)
 
 # How to run
 
